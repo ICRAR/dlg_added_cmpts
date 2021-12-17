@@ -1,6 +1,6 @@
 import pytest
 
-from project_name import MyAppDROP, MyDataDROP
+from dlg_added_cmpts import MyAppDROP, MyDataDROP
 
 given = pytest.mark.parametrize
 
